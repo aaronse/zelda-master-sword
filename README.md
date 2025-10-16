@@ -4,8 +4,16 @@ This repo's tracking building a Zelda Master Sword with my kid.  We're Making ht
 
 ![](./img/20251014_parts,printing,done!.jpg)
 
-![](./img/20251012-parts,printing,barely-fits.jpeg)
+<table>
+<tr><td>
 
+![](./img/20251014_parts,test-fit.jpeg)
+
+</td><td>
+
+![](./img/20251014_parts,test-fit.2.jpeg)
+
+</td></tr></table>
 
 ## Models
 
